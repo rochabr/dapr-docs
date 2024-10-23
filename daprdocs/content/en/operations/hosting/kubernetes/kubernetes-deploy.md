@@ -31,7 +31,7 @@ You can install Dapr on a Kubernetes cluster using the [Dapr CLI]({{< ref instal
    - [Set up Minikube Cluster]({{< ref setup-minikube.md >}})
    - [Set up Azure Kubernetes Service Cluster]({{< ref setup-aks.md >}})
    - [Set up GKE cluster]({{< ref setup-gke.md >}})
-   - [Set up Amazon Elastic Kubernetes Service](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html)
+   - [Set up Amazon Elastic Kubernetes Service](< ref setup-eks.md >)
 
 
 ### Installation options
